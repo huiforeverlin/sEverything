@@ -1,6 +1,5 @@
 package com.myself.sEverything.core.search.impl;
 
-
 import com.myself.sEverything.core.dao.FileIndexDao;
 import com.myself.sEverything.core.model.Condition;
 import com.myself.sEverything.core.model.Thing;
